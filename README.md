@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'fdelache_palindrome'
+
+"Madam, I'm Adam.".palindrome?
+```
 
 ## Development
 
@@ -30,4 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/fdelache_palindrome.
+Bug reports and pull requests are welcome on GitHub at https://github.com/fdelache/fdelache_palindrome.
